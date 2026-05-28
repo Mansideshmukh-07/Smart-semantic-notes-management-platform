@@ -1,1 +1,17 @@
+# Python build artifacts and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.ipynb_checkpoints/
 
+# Environment secrets
+.env
+*.env
+
+# Node/Frontend dependencies and builds
+node_modules/
+dist/
+build/
+.DS_Store
